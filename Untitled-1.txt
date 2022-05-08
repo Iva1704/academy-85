@@ -1,0 +1,2 @@
+git config --global user.name "Iva Kvesić"
+git config --global user.email iva.kvesic95@gmail.com
